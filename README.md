@@ -91,13 +91,7 @@ python train.py
 python predict.py "Your message here"
 ```
 
-If no input is provided, default test messages will be used.
 
----
-
-## 🔹 Example Output
-
-```
 Prediction: [Spam] (Confidence: 98.3%)
 ```
 
